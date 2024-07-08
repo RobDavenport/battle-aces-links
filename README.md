@@ -2,12 +2,13 @@
 Useful links for Battle Aces
 
 # Official
-Official Wesbite - [Play Battle Aces](playbattleaces.com)
+[Play Battle Aces](playbattleaces.com) - Official Wesbite
 
 # Fan Pages
 ## Unit Decks
-Battle Aces Decks and more - [Crablab](https://crablab.gg/)
+[Crablab](https://crablab.gg/) - Battle Aces Decks and more
 
 ## Unit Info & Stats
-Unit Stats - [battle-aces-stats.com](https://battle-aces-stats.com/)
-Unit Details - [baunits.com](https://baunits.com/)
+[battle-aces-stats.com](https://battle-aces-stats.com/) - Datamined Detailed Unit Stats
+
+[baunits.com](https://baunits.com/)  - Unit Details 
